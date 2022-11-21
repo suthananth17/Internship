@@ -1,0 +1,23 @@
+.delete{
+  height: 20px;
+  border: none;
+  fill: black;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  
+}
+
+.button {
+  cursor: pointer;
+  padding: 0;
+  border: 0;
+  background-color: #fff;
+  color: #333;
+}
+
+.containerHead{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,13 @@
+{
+  "employeeData": {
+    "employee_id": 1236937,
+    "name": {
+      "firstName": "Jeff Fox",
+      "Last name": "Jeff Fox"
+    },
+    "hire_date": "1/1/2013",
+    "location": "Norwalk, CT",
+    "consultant": false,
+    "phone_num": [0770555596, 077856598]
+  }
+}
