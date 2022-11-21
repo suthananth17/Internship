@@ -1,0 +1,17 @@
+.hot {
+    background: #ff5200;
+    color: Black;
+
+    
+  }
+
+  .cold {
+    background: #035aa6;
+    color: white;
+  }
+
+  .neutral{
+    background: greenyellow;
+    color: black;
+  }
+  

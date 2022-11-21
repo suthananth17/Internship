@@ -1,0 +1,95 @@
+
+.card{
+  width: 370px;
+  box-shadow: 0px 0px 15px 2px #e4e8f2;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+  position: relative;
+
+}
+
+.dots{
+  height: 16px;
+  position: absolute;
+  left: 90%;
+  top: 5%;
+  
+}
+
+.card_profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #e4e8f2;
+  margin-top: 10px;
+  padding: 7px;
+
+
+}
+
+.card_profile img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+
+}
+.card_info {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card_title {
+  padding-top: 5px;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 700;
+  color: black;
+}
+
+.card_role {
+  text-align: center;
+  color: #bebfc0;
+}
+
+.card_stats {
+  margin-top: 15px;
+  padding: 20px 0;
+  display: flex;
+  width: 80%;
+  
+}
+
+.stat {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+}
+
+.stat_num{
+    font-size: 18px;
+    color: #bebfc0;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.stat_title{
+    font-size: 14px;
+    color: #bebfc0;
+}
+
+.button {
+  background: #b2acf2;
+  border: 0;
+  color: white;
+  padding: 13px 40px 13px 40px;
+  border-radius: 15px;
+  margin: 20px;
+}
